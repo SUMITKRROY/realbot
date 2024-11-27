@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036397184831",
+    "project_id": "realbot-e5cd1",
+    "storage_bucket": "realbot-e5cd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036397184831:android:7ce18e393cec111e54358a",
+        "android_client_info": {
+          "package_name": "com.chattting.realbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036397184831-djcjdjlg1dehgqpckem8oocg8bliiuqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chattting.realbot",
+            "certificate_hash": "6ffc7411b73adb9cb5953d3a9119ee6982acd339"
+          }
+        },
+        {
+          "client_id": "1036397184831-j82btd41j8tbh3h7vr75sqi3djluntn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX3A-8m24g23PRnBecGOm_toku_Yo-tWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036397184831-j82btd41j8tbh3h7vr75sqi3djluntn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
